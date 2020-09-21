@@ -86,7 +86,7 @@
                 
                 	<li>
                     	<a href="poster.php?name=universal_appeal&title=Universal Appeal">
-                    	<div class="story-img"><img src="posters/thumb/universal_appeal.png"/>
+                    	<div class="story-img"><img src="https://storage.googleapis.com/poster-files/thumb/universal_appeal.png"/>
                             
                         </div>
                         	<div class="story-box">
@@ -101,7 +101,7 @@
    
                    	<li>
                     	<a href="poster.php?name=victoria_cross&title=Victoria Cross">
-                    	<div class="story-img"><img src="posters/thumb/victoria_cross.png"/></div>
+                    	<div class="story-img"><img src="https://storage.googleapis.com/poster-files/thumb/victoria_cross.png"/></div>
                         	<div class="story-box">
                             	<h4>Victoria Cross</h4>
                          </div>
@@ -110,7 +110,7 @@
 
                 	<li>
                     	<a href="poster.php?name=uniquenessof&title=Uniqueness of Sri Guru Granth Sahib">
-                    	<div class="story-img"><img src="posters/thumb/uniquenessof.png"/></div>
+                    	<div class="story-img"><img src="https://storage.googleapis.com/poster-files/thumb/uniquenessof.png"/></div>
                         	<div class="story-box">
                             	<h4>Uniqueness of Sri Guru Granth Sahib</h4>
                          </div>
@@ -120,7 +120,7 @@
 
                 	<li>
                     	<a href="poster.php?name=travels_of_guru_nanak&title=Travels of Guru Nanak">
-                    	<div class="story-img"><img src="posters/thumb/travels_of_guru_nanak.png"/></div>
+                    	<div class="story-img"><img src="https://storage.googleapis.com/poster-files/thumb/travels_of_guru_nanak.png"/></div>
                         	<div class="story-box">
                             	<h4>Travels of Guru Nanak</h4>
                          </div>
@@ -130,7 +130,7 @@
 
                 	<li>
                     	<a href="poster.php?name=sikhs_in_world_wars&title=Sikhs in World Wars">
-                    	<div class="story-img"><img src="posters/thumb/sikhs_in_world_wars.png"/></div>
+                    	<div class="story-img"><img src="https://storage.googleapis.com/poster-files/thumb/sikhs_in_world_wars.png"/></div>
                         	<div class="story-box">
                             	<h4>Sikhs in world wars</h4>
                          </div>
@@ -139,7 +139,7 @@
 
                 	<li>
                     	<a href="poster.php?name=sikhmarriage&title=Sikh Marriage">
-                    	<div class="story-img"><img src="posters/thumb/sikhmarriage.png"/></div>
+                    	<div class="story-img"><img src="https://storage.googleapis.com/poster-files/thumb/sikhmarriage.png"/></div>
                         	<div class="story-box">
                             	<h4>Sikh marriage</h4>
                          </div>
@@ -149,7 +149,7 @@
 
                 	<li>
                     	<a href="poster.php?name=sikh_women&title=Sikh Women">
-                    	<div class="story-img"><img src="posters/thumb/sikh_women.png"/></div>
+                    	<div class="story-img"><img src="https://storage.googleapis.com/poster-files/thumb/sikh_women.png"/></div>
                         	<div class="story-box">
                             	<h4>Sikh women</h4>
                          </div>
@@ -159,7 +159,7 @@
 
                 	<li>
                     	<a href="poster.php?name=sacrifices_made&title=Sacrifices made for India">
-                    	<div class="story-img"><img src="posters/thumb/sacrifices_made.png"/></div>
+                    	<div class="story-img"><img src="https://storage.googleapis.com/poster-files/thumb/sacrifices_made.png"/></div>
                         	<div class="story-box">
                             	<h4>Sacrifices made for India</h4>
                          </div>
@@ -168,7 +168,7 @@
 
                 	<li>
                     	<a href="poster.php?name=promises_broken&title=Promises Broken">
-                    	<div class="story-img"><img src="posters/thumb/promises_broken.png"/></div>
+                    	<div class="story-img"><img src="https://storage.googleapis.com/poster-files/thumb/promises_broken.png"/></div>
                         	<div class="story-box">
                             	<h4>Promises broken</h4>
                          </div>
@@ -178,7 +178,7 @@
 
                 	<li>
                     	<a href="poster.php?name=religious_fasting&title=Religious Fasting">
-                    	<div class="story-img"><img src="posters/thumb/religious_fasting.png"/></div>
+                    	<div class="story-img"><img src="https://storage.googleapis.com/poster-files/thumb/religious_fasting.png"/></div>
                         	<div class="story-box">
                             	<h4>Religious fasting</h4>
                          </div>
@@ -188,7 +188,7 @@
 
                 	<li>
                     	<a href="poster.php?name=quotes&title=What others have to say">
-                    	<div class="story-img"><img src="posters/thumb/quotes.png"/></div>
+                    	<div class="story-img"><img src="https://storage.googleapis.com/poster-files/thumb/quotes.png"/></div>
                         	<div class="story-box">
                             	<h4>What others have to say</h4>
                          </div>
@@ -198,7 +198,7 @@
 
                 	<li>
                     	<a href="poster.php?name=more_quotes&title=What others have to say 2">
-                    	<div class="story-img"><img src="posters/thumb/more_quotes.png"/></div>
+                    	<div class="story-img"><img src="https://storage.googleapis.com/poster-files/thumb/more_quotes.png"/></div>
                         	<div class="story-box">
                             	<h4>What others have to say 2</h4>
                          </div>
@@ -208,7 +208,7 @@
 
                 	<li>
                     	<a href="poster.php?name=kirtan&title=Kirtan">
-                    	<div class="story-img"><img src="posters/thumb/kirtan.png"/></div>
+                    	<div class="story-img"><img src="https://storage.googleapis.com/poster-files/thumb/kirtan.png"/></div>
                         	<div class="story-box">
                             	<h4>Kirtan</h4>
                          </div>
@@ -217,7 +217,7 @@
 
                 	<li>
                     	<a href="poster.php?name=khanda&title=The Khanda">
-                    	<div class="story-img"><img src="posters/thumb/khanda.png"/></div>
+                    	<div class="story-img"><img src="https://storage.googleapis.com/poster-files/thumb/khanda.png"/></div>
                         	<div class="story-box">
                             	<h4>The Khanda</h4>
                          </div>
@@ -225,7 +225,7 @@
                     </li>
                 	<li>
                     	<a href="poster.php?name=heaven_and_hell&title=Heaven and Hell">
-                    	<div class="story-img"><img src="posters/thumb/heaven_and_hell.png"/></div>
+                    	<div class="story-img"><img src="https://storage.googleapis.com/poster-files/thumb/heaven_and_hell.png"/></div>
                         	<div class="story-box">
                             	<h4>Heaven and hell</h4>
                          </div>
@@ -233,7 +233,7 @@
                     </li>
                 	<li>
                     	<a href="poster.php?name=guru_nanak_the_explorer&title=Guru Nanak the explorer">
-                    	<div class="story-img"><img src="posters/thumb/guru_nanak_the_explorer.png"/></div>
+                    	<div class="story-img"><img src="https://storage.googleapis.com/poster-files/thumb/guru_nanak_the_explorer.png"/></div>
                         	<div class="story-box">
                             	<h4>Guru Nanak the explorer</h4>
                          </div>
@@ -241,7 +241,7 @@
                     </li>
                 	<li>
                     	<a href="poster.php?name=gurbani_meant_to_be_applied&title=Gurbani meant to be applied">
-                    	<div class="story-img"><img src="posters/thumb/gurbani_meant_to_be_applied.png"/></div>
+                    	<div class="story-img"><img src="https://storage.googleapis.com/poster-files/thumb/gurbani_meant_to_be_applied.png"/></div>
                         	<div class="story-box">
                             	<h4>Gurbani meant to be applied</h4>
                          </div>
@@ -249,7 +249,7 @@
                     </li>
                 	<li>
                     	<a href="poster.php?name=father_and_son&title=Father and son">
-                    	<div class="story-img"><img src="posters/thumb/father_and_son.png"/></div>
+                    	<div class="story-img"><img src="https://storage.googleapis.com/poster-files/thumb/father_and_son.png"/></div>
                         	<div class="story-box">
                             	<h4>Father and son</h4>
                          </div>
@@ -257,7 +257,7 @@
                     </li>
                 	<li>
                     	<a href="poster.php?name=empty_rituals&title=Empty Rituals">
-                    	<div class="story-img"><img src="posters/thumb/empty_rituals.png"/></div>
+                    	<div class="story-img"><img src="https://storage.googleapis.com/poster-files/thumb/empty_rituals.png"/></div>
                         	<div class="story-box">
                             	<h4>Empty rituals</h4>
                          </div>
@@ -265,7 +265,7 @@
                     </li>
                 	<li>
                     	<a href="poster.php?name=children&title=Our children our future">
-                    	<div class="story-img"><img src="posters/thumb/children.png"/></div>
+                    	<div class="story-img"><img src="https://storage.googleapis.com/poster-files/thumb/children.png"/></div>
                         	<div class="story-box">
                             	<h4>Our children our future</h4>
                          </div>
@@ -273,7 +273,7 @@
                     </li>
                 	<li>
                     	<a href="poster.php?name=bhai_mani_singh&title=Bhai Mani Singh">
-                    	<div class="story-img"><img src="posters/thumb/bhai_mani_singh.png"/></div>
+                    	<div class="story-img"><img src="https://storage.googleapis.com/poster-files/thumb/bhai_mani_singh.png"/></div>
                         	<div class="story-box">
                             	<h4>Bhai Mani Singh</h4>
                          </div>
@@ -281,7 +281,7 @@
                     </li>
                 	<li>
                     	<a href="poster.php?name=bhai_kanhaiya&title=Bhai Kanhaiya">
-                    	<div class="story-img"><img src="posters/thumb/bhai_kanhaiya.png"/></div>
+                    	<div class="story-img"><img src="https://storage.googleapis.com/poster-files/thumb/bhai_kanhaiya.png"/></div>
                         	<div class="story-box">
                             	<h4>Bhai Kanhaiya</h4>
                          </div>
@@ -289,7 +289,7 @@
                     </li>
                 	<li>
                     	<a href="poster.php?name=battle_of_saragarhi&title=Battle of Saragarhi">
-                    	<div class="story-img"><img src="posters/thumb/battle_of_saragarhi.png"/></div>
+                    	<div class="story-img"><img src="https://storage.googleapis.com/poster-files/thumb/battle_of_saragarhi.png"/></div>
                         	<div class="story-box">
                             	<h4>Battle of Saragarhi</h4>
                          </div>
@@ -297,7 +297,7 @@
                     </li>
                 	<li>
                     	<a href="poster.php?name=a_visitor_from_rome&title=A visitor from Rome">
-                    	<div class="story-img"><img src="posters/thumb/a_visitor_from_rome.png"/></div>
+                    	<div class="story-img"><img src="https://storage.googleapis.com/poster-files/thumb/a_visitor_from_rome.png"/></div>
                         	<div class="story-box">
                             	<h4>A visitor from Rome</h4>
                          </div>
@@ -305,7 +305,7 @@
                     </li>
                 	<li>
                     	<a href="poster.php?name=3pillars&title=Three pillars of Sikhism">
-                    	<div class="story-img"><img src="posters/thumb/3pillars.png"/></div>
+                    	<div class="story-img"><img src="https://storage.googleapis.com/poster-files/thumb/3pillars.png"/></div>
                         	<div class="story-box">
                             	<h4>Three pillars of Sikhism</h4>
                          </div>
